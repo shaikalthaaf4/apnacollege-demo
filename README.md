@@ -1,3 +1,3 @@
 # apnacollege-demo
 
-Author: Althaaf Shaik
+Author -> Althaaf Shaik
